@@ -11,12 +11,12 @@ package proyectocvs;
  */
 public class ProyectoCVS {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         System.out.println("Primer proyecto cvs");
+        System.out.println("Primera linea modificada");
+        
+        
     }
     
 }
